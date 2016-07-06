@@ -9,6 +9,6 @@ public class Main {
 
         System.out.println(sam1.toString());
         System.out.println(sam1.toString());
-
+        System.out.println(sam1.toString());
     }
 }
