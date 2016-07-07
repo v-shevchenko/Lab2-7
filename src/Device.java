@@ -41,7 +41,7 @@ public class Device {
 
 }
 
-    public String toString() {
+    public String toString1() {
         return "Device: manufacturer=" + manufacturer + ", price=" + price + ", serialNumber=" + serialNumber;
     }
 
