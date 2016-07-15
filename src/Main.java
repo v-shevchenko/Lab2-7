@@ -8,6 +8,6 @@ public class Main {
 
         System.out.println(sam1.toString1());
         System.out.println(sam1.toString());
-
+        System.out.println("Ok!");
     }
 }
